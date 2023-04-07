@@ -1,2 +1,3 @@
 # Server-Client-App
 Server-Client Uygulaması (TCP-IP Protokolü)
+Burada server ve vlient arasında Tcp/Ip protokolü kullanılarak WPF tabanlı bir uyguluma gelişirilmiştir. Lamba butonu server tarafında ve client tarafında doğru çalışmaktadır, sadece client tarafında lamba butonu üzerine mouse ile gellindiğinde buton rengi parlak renge dönüşmekte ne yaparsam yapayım bunu düzeltemedim. Text butonu Clientdan Servera  mesaj gönderiyor işlev yapamıyor, serverdaki text butonu ise random sayı oluştruyor clienta haber gönderemiyor. Zaman ve WPF uygulamasında ilk kez çalışmam gibi koşullardan kaynaklı olarak projenin tamamını bitiremedim. Teşşekürler, iyi günler..
