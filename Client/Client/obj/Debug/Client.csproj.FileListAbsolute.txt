@@ -1,0 +1,14 @@
+C:\Users\emre_\source\repos\Client\Client\bin\Debug\Client.exe.config
+C:\Users\emre_\source\repos\Client\Client\bin\Debug\Client.exe
+C:\Users\emre_\source\repos\Client\Client\bin\Debug\Client.pdb
+C:\Users\emre_\source\repos\Client\Client\obj\Debug\Client.csproj.AssemblyReference.cache
+C:\Users\emre_\source\repos\Client\Client\obj\Debug\MainWindow.baml
+C:\Users\emre_\source\repos\Client\Client\obj\Debug\MainWindow.g.cs
+C:\Users\emre_\source\repos\Client\Client\obj\Debug\App.g.cs
+C:\Users\emre_\source\repos\Client\Client\obj\Debug\Client_MarkupCompile.cache
+C:\Users\emre_\source\repos\Client\Client\obj\Debug\Client.g.resources
+C:\Users\emre_\source\repos\Client\Client\obj\Debug\Client.Properties.Resources.resources
+C:\Users\emre_\source\repos\Client\Client\obj\Debug\Client.csproj.GenerateResource.cache
+C:\Users\emre_\source\repos\Client\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+C:\Users\emre_\source\repos\Client\Client\obj\Debug\Client.exe
+C:\Users\emre_\source\repos\Client\Client\obj\Debug\Client.pdb
